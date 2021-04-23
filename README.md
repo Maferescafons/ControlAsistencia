@@ -5,7 +5,7 @@ Sistema de registro de entradas y salidas de un personal, el empleado después d
 FE
 
 
-Para levantar la aplicacion se necesita copiar el contenido del env.example y reemplazar 
+Para levantar la aplicacion se necesita copiar el contenido del env.example en un .env y reemplazar 
 
 
 DB_CONNECTION=mysql
