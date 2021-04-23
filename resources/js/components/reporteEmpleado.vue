@@ -11,8 +11,8 @@
                                 <tr>
                                 <th scope="col">Nombres</th>
                                 <th scope="col">Entrada</th>
-                                <th scope="col">Almuerso</th>
-                                <th scope="col">regreso Almuerzo</th>
+                                <th scope="col">Almuerzo Inicio</th>
+                                <th scope="col">AlmuerzoRegreso</th>
                                 <th scope="col">Salida</th>
                                 <th scope="col">Cumplimiento</th>
                                 </tr>
